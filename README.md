@@ -27,11 +27,4 @@ To view the project:
 
 ## Usage
 Feel free to modify the HTML and CSS files to customize the design and functionality. This project serves as a template for creating similar single-page applications.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-For inquiries, please reach out to [Dhilip N](https://www.linkedin.com/in/dhilipnagarajan-633719271/).
-
 You can adjust the repository link and any other details to better fit your project!
